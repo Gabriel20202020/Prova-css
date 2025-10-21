@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+/*Reset padrão*/
+*{
+    margin:0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(155, 172, 185, 0.507);
+}
+.logo{
+    text-align: left;
+}
+.links{
+    text-align:center
+  
+}
+
+
+
+
+
+
+
+.caixa{
+    font-family: "Oswald", sans-serif;
+}
+.historia{
+    text-align: center;
+    background-image: url(imagens/BANNER.avif);
+    height: 60vh;
+    background-size: cover;
+    background-position: 60%;
+    margin: 80px;
+    border-radius: 12px;
+    text-align: left;
+    font-size: 30px;
+    color: aliceblue;
+    font-family: "Oswald", sans-serif;
+      }
+.produtos{
+    font-family: "Oswald", sans-serif;
+     }
+.latte{
+    text-align: center;
+    border-radius: 4px;
+    padding: 5px;
+    font-family: "Oswald", sans-serif;
+}
+.cremoso{
+    text-align: center;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+    font-family: "Oswald", sans-serif;
+}
+
+.mocha{
+    text-align: center;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+    font-family: "Oswald", sans-serif;
+}
+.queijo{
+    text-align: center;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+    font-family: "Oswald", sans-serif;
+}
+.torrada{
+    text-align: center;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+    font-family: "Oswald", sans-serif;
+}
+.bolo{
+    text-align: center;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+    font-family: "Oswald", sans-serif;
+}
